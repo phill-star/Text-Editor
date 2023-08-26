@@ -1,0 +1,34 @@
+{
+  "name": "jate",
+  "version": "1.0.0",
+  "description": "note taker",
+  "main": "server.js",
+  "scripts": {
+    "start:dev": "",
+    "start": "",
+    "server": "",
+    "build": "",
+    "install": "",
+    "client": ""
+  },
+  "keywords": [],
+  "author": "mohamed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "if-env": "^1.0.4",
+    "moongose": "^1.0.0"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phill-star/Text-Editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phill-star/Text-Editor/issues"
+  },
+  "homepage": "https://github.com/phill-star/Text-Editor#readme"
+}
